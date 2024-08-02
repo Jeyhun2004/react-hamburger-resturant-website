@@ -13,10 +13,9 @@ This is the main screen of the project:
 
 Menu page: 
 
-![Uploading MenuPage.png…]()
+![MenuPage](https://github.com/user-attachments/assets/ec58eacb-b815-47ee-8dc3-440725982369)
+
 
 About Us section:
 
-![Uploading MenuPage.png…]()
-![Uploading HomeScreen.png…]()
-![AboutUs](https://github.com/user-attachments/assets/f910923e-5294-46d2-90ee-125e20d6de16)
+![AboutUs](https://github.com/user-attachments/assets/69252194-50fe-464d-a1f4-a56865457130)
